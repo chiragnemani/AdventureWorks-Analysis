@@ -1,5 +1,6 @@
-# AdventureWorks-Analysis
-Welcome to the Adventure Works Sales Management Dashboard! This repository contains an end-to-end analysis for the Adventure Works company. This project leverages SQL and Power BI to generate insights for improved sales reporting and analysis.
+![AdventureWorks Analysis Banner](https://github.com/chiragnemani/AdventureWorks-Analysis/assets/148119942/8c63b629-9194-4a6c-8304-befdf1efb25c)
+
+**Welcome to the Adventure Works Sales Management Dashboard! This repository contains an end-to-end analysis for the Adventure Works company. This project leverages SQL and Power BI to generate insights for improved sales reporting and analysis.**
 
 ## &rarr; PROBLEM STATEMENT
 In early 2024, Steven, the Sales Manager at Adventure Works, identified a crucial need to improve their sales reporting. The existing static reports were insufficient for the growing demands of the business. Steven needed dynamic, visual dashboards that could provide a comprehensive view of their internet sales, enabling better tracking of top-selling products and key customers over time. Each salesperson worked with different products and clients, so the ability to filter data by these categories was essential. Additionally, Steven wanted to compare sales performance against the budget for 2024, looking back at the past two years for trend analysis.
